@@ -1,3 +1,11 @@
-Sonic 1.bin
-Sonic 2.bin
-Sonic 3.md
+Sonic South Island Expedition (Mega Drive).bin
+Sonic Spinball (Mega Drive).md
+Sonic Chaos (Master System).sms
+Sonic Blast (Master System).sms
+Sonic 3D Blast (Mega Drive).md
+Sonic 3 (Mega Drive).md
+Sonic 2 (Mega Drive).md
+Sonic 2 (Master System).sms
+Sonic 1 (Mega Drive).md
+Sonic 1 (Master System).sms
+Sonic & Knuckles (Mega Drive).md
